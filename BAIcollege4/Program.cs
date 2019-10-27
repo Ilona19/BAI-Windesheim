@@ -10,6 +10,9 @@ namespace BAIcollege4
     {
         static void Main(string[] args)
         {
+            // huiswerk
+            HuiswerkMethode.Methode();
+
             //Method("(((((   )))) () )");
             //Method(")()");
             //Method("(()()()())");

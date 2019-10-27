@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace BAIcollege3
 {
-    class Program
+    class Les
     {
         static void Main(string[] args)
         {
+            // hw
+            HuiswerkMethode.TestFunction();
+
             //opdracht 5
             int[] getallen = { 19, 24, -19, -24, 0 };
             foreach (int item in getallen)
